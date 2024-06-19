@@ -20,6 +20,12 @@ Cuando se encuentra a una distancia $d$ del pico de la montaña, el avión suelt
 ## Objetivo 🎯
 * Grafique la trayectoria de la bomba y el punto de impacto.
 
+## Informe del Proyecto 📑
+
+Puedes acceder al informe del proyecto en el siguiente enlace:
+
+[![Informe General](assets/inf.png)]()
+
 ## Código en Google Colab 💻
 
 Puedes acceder al código del proyecto en Google Colab mediante el siguiente enlace:
