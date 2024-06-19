@@ -39,4 +39,4 @@ Para ver la presentación detallada del proyecto, puedes acceder al diseño en C
 
 Puedes ver el video de presentación del proyecto mediante el siguiente enlace:
 
-[![Video de presentación](http://img.youtube.com/vi/tu_video_id/maxresdefault.jpg)](https://www.youtube.com/watch?v=tu_video_id)
+[![Video de presentación](https://iconos8.es/icon/jhVH1oNJKfCf/circled-play)](Test_del_Codigo.mkv)
