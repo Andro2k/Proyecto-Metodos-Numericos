@@ -7,7 +7,7 @@
 - Simbaña Fabian
 
 ## Descripción 📜
-![avión vuela](assets/image-1.jpg)
+![avión vuela](assets/imagen-1.png)
 
 Un avión vuela con velocidad $V$ a $H_a$ metros sobre el nivel del mar en dirección a una montaña. 
 
