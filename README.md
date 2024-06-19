@@ -7,7 +7,7 @@
 - Simbaña Fabian
 
 ## Descripción 📜
-![alt text](assets/imagen-1.png)
+![alt text](assets/image-1.png)
 
 Un avión vuela con velocidad $V$ a $H_a$ metros sobre el nivel del mar en dirección a una montaña. 
 
@@ -39,4 +39,4 @@ Para ver la presentación detallada del proyecto, puedes acceder al diseño en C
 
 Puedes ver el video de presentación del proyecto mediante el siguiente enlace:
 
-[Ver el video de presentación](https://www.youtube.com/watch?v=tu_video)
+[![Video de presentación](http://img.youtube.com/vi/tu_video_id/maxresdefault.jpg)](https://www.youtube.com/watch?v=tu_video_id)
