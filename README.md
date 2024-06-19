@@ -24,7 +24,7 @@ Cuando se encuentra a una distancia $d$ del pico de la montaña, el avión suelt
 
 Puedes acceder al informe del proyecto en el siguiente enlace:
 
-[![Informe General](assets/inf.png)]()
+[![Informe General](assets/info.png)](Informe.pdf)
 
 ## Código en Google Colab 💻
 
